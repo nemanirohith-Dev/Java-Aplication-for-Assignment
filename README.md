@@ -1,2 +1,2 @@
-# Java-Aplication-for-Assignment
-This for java Hr portal
+# Enterprise HR Portal
+Sample Java Maven web app for DevOps assignments.
