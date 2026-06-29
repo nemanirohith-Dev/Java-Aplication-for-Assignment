@@ -1,1 +1,0 @@
-<html><body><h1>Enterprise HR Portal</h1><a href='login.jsp'>Login</a></body></html>
